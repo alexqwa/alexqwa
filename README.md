@@ -1,8 +1,10 @@
 ### Olá! 👋
 ##
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-<a href="https://rifas-green.vercel.app/">Site em desenvolvimento</a>
-
+<div>
+  <a href="https://rifas-green.vercel.app/">Site em desenvolvimento!</a>
+</div>
+  
 <div>
   <a href="https://github.com/alexqwa">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alexqwa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
