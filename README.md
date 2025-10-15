@@ -2,8 +2,8 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@dieegosf-00875f?style=flat-square&labelColor=00875f&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/dieegosf) 
 [![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
-[![Gmail Badge](https://img.shields.io/badge/:badgeContent?logo=gmail&color=white&link=mailto%3Aalex.ferreiraqwa%40gmail.com
-)](mailto:alex.ferreiraqwa@gmail.com)
+[![Gmail Badge]([https://img.shields.io/badge/:badgeContent?logo=gmail&color=white&link=mailto%3Aalex.ferreiraqwa%40gmail.com](https://img.shields.io/badge/alex.ferreiraqwa%40gmail.com?logo=gmail&color=white&link=mailto%3Aalex.ferreiraqwa%40gmail.com))]
+(mailto:alex.ferreiraqwa@gmail.com)
 
 Enthusiast of the best web & mobile development technologies.
 
